@@ -1,0 +1,34 @@
+.main-content {
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 25px 0 25px 35px;
+  border-radius: 0 0 10px 10px;
+}
+
+.main-content .hero {
+  padding: 0 0 0 45px;
+}
+
+.main-content img {
+  width: 80%;
+}
+
+.main-content h1 {
+  margin-bottom: 10px;
+}
+
+.main-content > p {
+  width: 320px;
+  font-size: 16px;
+  font-weight: 300;
+  margin-top: 0;
+}
+
+.deck {
+  padding-left: 73px;
+  display: flex;
+  justify-content: center;
+  overflow: scroll;
+}

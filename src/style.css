@@ -1,0 +1,18 @@
+@import '../src/components/NavBar/style.css';
+@import '../src/components/MainContent/style.css';
+@import '../src/components/Card/style.css';
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  width: 550px;
+  background-color: #5c5c5c;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  font-weight: 600;
+}
